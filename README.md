@@ -1,5 +1,7 @@
 ## Hi there 👋
+## 🧠 LeetCode Progress
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/smanishasankar?theme=light&font=Baloo)
 <!--
 **Manishasivasankar/Manishasivasankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
