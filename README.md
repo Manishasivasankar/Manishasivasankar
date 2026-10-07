@@ -2,6 +2,17 @@
 ## 🧠 LeetCode Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/smanishasankar?theme=light&font=Baloo)
+## LeetCode Journey
+* Practicing DSA problems
+* Improving problem-solving skills
+* Learning different approaches to coding problems
+
+## 🛠️ Skills
+* Python
+* C
+* SQL
+* Data Structures & Algorithms
+* Git & GitHub
 <!--
 ## LeetCode Journey
 * Practicing DSA problems
