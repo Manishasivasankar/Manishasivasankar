@@ -3,12 +3,12 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/smanishasankar?theme=light&font=Baloo)
 <!--
-LeetCode Journey
+## LeetCode Journey
 * Practicing DSA problems
 * Improving problem-solving skills
 * Learning different approaches to coding problems
 
-🛠️ Skills
+## 🛠️ Skills
 * Python
 * C
 * SQL
